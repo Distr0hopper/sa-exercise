@@ -1,0 +1,14 @@
+.custom-green {
+    background-color: #1f8b38;  /* Bootstrap green */
+    color: white;
+    border: none;
+}
+
+.custom-green:hover {
+    background-color: #218838;
+    color: white;
+}
+
+body {
+    background-color: pink !important;
+}
